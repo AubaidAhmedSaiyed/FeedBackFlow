@@ -1,0 +1,7 @@
+Slow App - Crashes Frequesntly
+The app is very slow to load and often crashes during checkout.
+Payment gateway did not respond, and I had to try twice.
+The user interface is confusing and not mobile-friendly.
+Login sometimes fails without showing any error.
+Great idea, but the overall experience is frustrating due to performance issues.
+Slow App 
