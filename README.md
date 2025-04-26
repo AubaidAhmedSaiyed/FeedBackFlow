@@ -9,7 +9,7 @@ User Mode:
 Product Manager Mode:
 
   📍Analyze feedback to detect major pain points (e.g., slow performance, crashes, payment issues).
-  📍detect overall sentiment (positive, negative, neutral) from user feedback.
+  📍Detect overall sentiment (positive, negative, neutral) from user feedback.
   📍Identify high-priority feedback based on urgency keywords.
   📍Prioritize features based on impact versus effort scoring.
   📍Make decisions based on customer satisfaction ratings.
